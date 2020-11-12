@@ -9,4 +9,4 @@ I am a Costa Rican :costa_rica: recent High school graduate, I don't have a lot 
 
 #### Social Media
 - Twitter: [bssp0109](https://twitter.com/bssp0109)
-- Mastodon: [@bssp0109@fosstodon.org](https://fosstodon.org/@bsp0109)
+- Mastodon: [@bsp0109@fosstodon.org](https://fosstodon.org/@bsp0109)
